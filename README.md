@@ -1,3 +1,7 @@
 # Practice_Bootstrap
-Practice_Bootstrap
-npm install node
+Bootstrap Project
+
+
+Design a homepage for a restaurant. The main technologies used are:
+
+
